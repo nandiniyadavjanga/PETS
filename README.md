@@ -1,14 +1,14 @@
 # PETS
-A short story on pets
+Short note on Pets
 
 ## Link
 [PET link](https://github.com/nandiniyadavjanga/PETS)
 
 ## Types of PETS
-1.Cat
-1.Dog
-1.Parrot
-1.Fish
+1. Cat
+1. Dog
+1. Parrot
+1. Fish
 
 ## Kinds of Pet lovers
 - Dog lover is known as Cynophile
